@@ -40,7 +40,7 @@ Sou apaixonado por tecnologia e estou em constante aprendizado. Gosto de criar p
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ph-ascencao)
 - 📧 phascencao2@gmail.com
-- 🧑‍💻 Veja meu [Currículo (PDF)](https://github.com/seu-usuario/seu-repositorio/raw/main/Curriculo%20Pedro%20Henrique.pdf)
+- 🧑‍💻 Veja meu [Currículo (PDF)](https://github.com/Phascencao/curriculo/blob/main/Curr%C3%ADculo%20Pedro%20Henrique%20M.%20D%C2%B4Ascen%C3%A7%C3%A3o.pdf)
 
 ---
 
