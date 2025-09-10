@@ -1,14 +1,14 @@
 <h1 align="center">Olá! 👋 Me chamo Pedro Henrique</h1>
 
 <p align="center">
-  🎓 Estudante de Ciência de Dados • 💻 Estagiário em Tecnologia • ☕ Apaixonado por resolver problemas com código
+  🎓 Estudante de ADS • 💻 Estagiário em Tecnologia • ☕ Apaixonado por resolver problemas com código
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-Atualmente, estou cursando **Ciência de Dados** e atuo como **Estagiário em Implantação de Sistemas na DIGTE**, **Parceira oficial TOTVS**, onde trabalho com automação de processos e integração de sistemas usando a plataforma Fluig.
+Atualmente, estou cursando **ADS** e atuo como **Estagiário em Implantação de Sistemas na DIGTE**, **Parceira oficial TOTVS**, onde trabalho com automação de processos e integração de sistemas usando a plataforma Fluig.
 
 Sou apaixonado por tecnologia e estou em constante aprendizado. Gosto de criar projetos práticos com **Python**, **JavaScript** e **SQL**, sempre buscando fortalecer minha lógica de programação e habilidades com ferramentas modernas.
 
