@@ -20,8 +20,11 @@ Sou apaixonado por tecnologia e estou em constante aprendizado. Gosto de criar p
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
@@ -32,7 +35,7 @@ Sou apaixonado por tecnologia e estou em constante aprendizado. Gosto de criar p
 
 - 📚 Estudando: **Estrutura de dados, API REST, Orientação a Objetos e SQL avançado**
 - 🧠 Desenvolvendo: Projetos que reforçam **boas práticas de código** e simulem **situações reais**
-- 🚀 Em breve: Aplicações com Flask, FastAPI e projetos com SQLite/PostgreSQL
+- 🚀 Próximo passo: Aplicações fullstack com autenticação e deploy em nuvem
 
 ---
 
