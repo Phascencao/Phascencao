@@ -8,7 +8,7 @@
 
 ### 🚀 Sobre mim
 
-Atualmente, estou cursando **ADS** e atuo como **Estagiário em Implantação de Sistemas na DIGTE**, **Parceira oficial TOTVS**, onde trabalho com automação de processos e integração de sistemas usando a plataforma Fluig.
+Atualmente, estou cursando **ADS** e tenho experiência com **Estagiário em Implantação de Sistemas na DIGTE**, **Parceira oficial TOTVS**, onde trabalhei com automação de processos e integração de sistemas usando a plataforma Fluig.
 
 Sou apaixonado por tecnologia e estou em constante aprendizado. Gosto de criar projetos práticos com **Python**, **JavaScript** e **SQL**, sempre buscando fortalecer minha lógica de programação e habilidades com ferramentas modernas.
 
@@ -33,7 +33,7 @@ Sou apaixonado por tecnologia e estou em constante aprendizado. Gosto de criar p
 
 ### 📈 Em constante evolução...
 
-- 📚 Estudando: **Estrutura de dados, API REST, Orientação a Objetos e SQL avançado**
+- 📚 Estudando: **Estrutura de dados, API REST, SQL avançado e certificação AWS Cloud Pratitioner**
 - 🧠 Desenvolvendo: Projetos que reforçam **boas práticas de código** e simulem **situações reais**
 - 🚀 Próximo passo: Aplicações fullstack com autenticação e deploy em nuvem
 
