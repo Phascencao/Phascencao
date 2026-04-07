@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋 Me chamo Pedro Henrique</h1>
 
 <p align="center">
-  🎓 Estudante de ADS • 💻 Estagiário em Tecnologia • ☕ Apaixonado por resolver problemas com código
+  🎓 Estudante de ADS • 💻 Desenvolvedor Junior • ☕ Apaixonado por resolver problemas com código
 </p>
 
 ---
