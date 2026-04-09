@@ -8,7 +8,7 @@
 
 ### 🚀 Sobre mim
 
-Atualmente, estou cursando **ADS** e tenho experiência com **Estagiário em Implantação de Sistemas na DIGTE**, **Parceira oficial TOTVS**, onde trabalhei com automação de processos e integração de sistemas usando a plataforma Fluig.
+Desenvolvedor em formação (ADS), com **experiência prática em automação de processos e integração de sistemas de larga escala**. Atuei como **Estagiário de Implantação na DIGTE (Parceira Oficial TOTVS)**, onde desenvolvi soluções dentro do ecossistema **Fluig**, focando na eficiência operacional e na conectividade entre plataformas. Atualmente, busco aplicar meu background em arquitetura de processos e desenvolvimento de software para solucionar problemas complexos como **Desenvolvedor Júnior**.
 
 Sou apaixonado por tecnologia e estou em constante aprendizado. Gosto de criar projetos práticos com **Python**, **JavaScript** e **SQL**, sempre buscando fortalecer minha lógica de programação e habilidades com ferramentas modernas.
 
